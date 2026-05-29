@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 jarvis_report_*txt
 .env
+
+local_model.py
+openai_test.py
